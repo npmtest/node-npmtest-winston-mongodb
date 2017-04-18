@@ -1,12 +1,12 @@
 <svg height="142" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="142" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 22:30:03 +0000    22448 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 22:30:03 +0000     3645 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 22:30:03 +0000     2118 bytes  lib/helpers.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 22:30:03 +0000      237 bytes  lib/winston-mongodb.d.ts</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 22:30:03 +0000    12088 bytes  lib/winston-mongodb.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 22:30:03 +0000     3163 bytes  package.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 22:30:03 +0000     1197 bytes  test/winston-mongodb-test.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 22:31:07 +0000    22448 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 22:31:07 +0000     3645 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 22:31:07 +0000     2118 bytes  lib/helpers.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 22:31:07 +0000      237 bytes  lib/winston-mongodb.d.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 22:31:07 +0000    12088 bytes  lib/winston-mongodb.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 22:31:07 +0000     3163 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 22:31:07 +0000     1197 bytes  test/winston-mongodb-test.js</tspan>
 </text>
 </svg>
